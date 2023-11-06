@@ -1,0 +1,145 @@
+
+
+.back {
+
+    background-color: rgb(32, 21, 49);
+
+}
+
+.dad {
+
+    box-shadow: 0 0 40px rgb(163, 115, 115);
+    background-color: rgb(42, 25, 66);
+
+}
+
+.foceso {
+
+    background-color: rgb(42, 25, 66);
+    border: 1px solid rgb(167, 122, 63);
+    color: rgb(36, 231, 18);
+    margin: 20px 0;
+
+}
+
+.foceso:focus {
+
+    background-color: rgb(42, 25, 66);
+    color: rgb(36, 231, 18);
+
+}
+
+.foceso::placeholder {
+
+    color: rgb(132, 139, 201);
+
+}
+
+.bosbos {
+
+    background-color: rgb(42, 25, 66);
+    border: 1px solid rgb(192, 131, 50);
+    color: rgb(36, 231, 18);
+
+
+}
+
+.bosbos:hover {
+
+    color: rgb(36, 231, 18);
+    background-color: rgb(91, 76, 110);
+
+}
+
+.log {
+
+    border: 1px solid rgb(235, 140, 17);
+    color: rgb(36, 231, 18);
+    text-decoration: none;
+
+}
+
+.log:hover {
+
+    background-color: yellow;
+    color: rgb(3, 3, 3);
+
+}
+
+.smart {
+
+    box-shadow: 0 0 40px rgb(163, 115, 115);
+    background-color: rgb(42, 25, 66);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.coneter {
+
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.decorat {
+
+    text-decoration: none;
+    color: rgb(36, 231, 18);
+
+}
+
+.diff{
+
+background-color: unset;
+border: unset;
+color: rgb(0, 119, 255);
+font-weight: bold;
+
+}
+
+.diff:hover {
+
+border-bottom: 2px solid rgb(0, 119, 255);
+
+
+}
+
+.page442 {
+
+display: none;
+
+
+}
+
+.oooo {
+
+display: block;
+
+}
+
+.sssss {
+
+height: 100vh;
+
+}
+
+.zzzz {
+
+cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
